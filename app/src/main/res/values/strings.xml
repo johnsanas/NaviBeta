@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic Android Project</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Find an address</string>
+    <string name="nothing_found">Nothing found for</string>
+
+    <string name="progress_title">Finding Route</string>
+    <string name="progress_message">Please wait&#8230;</string>
+</resources>
